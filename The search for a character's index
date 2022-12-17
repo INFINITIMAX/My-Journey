@@ -1,0 +1,3 @@
+// Setup
+const lastName = "cityName";
+const lastLetterOfLastName =lastName[lastName.length - 1]; // A way to find the index of a speciic character in a string 
